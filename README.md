@@ -56,6 +56,4 @@ Este projeto controla três LEDs (verde, amarelo e vermelho) utilizando um botã
 * Verifique se o botão está ligado corretamente ao GND.
 * Sempre use resistores nos LEDs para evitar danos.
 
-![Circuito](image01.png)
-
 ---
